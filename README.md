@@ -1,6 +1,6 @@
 # Airline Review Dashboard - Project  
 **Status**: DONE!  
-**Source of dataset**: [HERE!](https://www.airlinequality.com/airline-reviews/)  
+**Source of dataset**: [HERE!](https://www.airlinequality.com/review-pages/a-z-airport-reviews/)  
 **Outcome: Dashboard**: HERE!  
 **Code (scrapping & data prep)**: HERE!  
 
