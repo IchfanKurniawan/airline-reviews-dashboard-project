@@ -1,7 +1,7 @@
 # Airline Review Dashboard - Project  
 **Status**: DONE!  
-**Source of dataset**: [HERE!](https://www.airlinequality.com/airline-reviews/)  
-**Outcome: Dashboard**: [HERE!](https://public.tableau.com/app/profile/ichfan.kurniawan/viz/AirlineCustomerReview/Dashboard1)
+**Source of dataset**: [HERE!](https://www.airlinequality.com/review-pages/a-z-airport-reviews/) 
+**Outcome: Dashboard**: [HERE!](https://public.tableau.com/app/profile/ichfan.kurniawan/viz/AirlineCustomerReview/Dashboard1) 
 **Code (scrapping & data prep)**: HERE!  
 
 ### Project Context  
