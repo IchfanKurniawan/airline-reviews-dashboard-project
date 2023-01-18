@@ -5,6 +5,8 @@
 **Code (scrapping & data prep)**: HERE!  
 
 ### Project Context  
+This project is the extension of [the previous internship project](https://github.com/IchfanKurniawan/british-airways-intern-project) from British Airways to scrape & to analyze the customers' reviews that use British Airways, so that we could better understand of the customers experiences, sentiment, & polarity.  
+
 From point of view of airlines management, reviews from customers are crucial to improve their services & growth. Better service means more customer & more profit will be obtained. In addition, from point of view of customers, reviews from others are helpful to choose which airlines are perfect in their preferences, like in term of budget, seat, and other facilities.  
 
 This project tried to fill the gap by collecting reviews & presenting it in dashboard that could be explored further by airlines management or customers.  
